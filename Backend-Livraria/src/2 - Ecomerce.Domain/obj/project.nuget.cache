@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pORNEycUAJLneqXmqcHf/tc0JUkpgPeOw0VBayzRMqn89SfzixS2SImVBunIzuamsrSEIuNnrj3KNKFWA1Yltw==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu/Pictures/APP-LIVRARIA/Backend-Livraria/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/fluentvalidation/10.1.0/fluentvalidation.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
